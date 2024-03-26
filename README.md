@@ -154,3 +154,9 @@ Company Fundamentals:
   Description of the tools that will be used to create the final dashboard  
   - We will be using Tableau to build and display the presentation
   - Tableau will be used to analyze ten public electric vehicle (EV) companies
+  
+  Description of interactive element(s)
+  - We are pulling the Tableau story into the dashboard for the presentation
+  - The analysis of EV companies will be interactive
+  - We have added news stories related to the ten EV companies to the dashboard
+
